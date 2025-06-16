@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+
+Sitemap: https://www.niltonnovele.com/sitemap.xml
+Host: https://www.niltonnovele.com
